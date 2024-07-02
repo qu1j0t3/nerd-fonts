@@ -208,7 +208,7 @@
       "linkPreviewFont": "cousine",
       "caskName": "cousine",
       "repoRelease": true,
-      "description": "Similar to Courier New with better readablitiy, dotted zeros"
+      "description": "Based on Liberation Mono"
     },
     {
       "unpatchedName": "D2Coding",
